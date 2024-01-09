@@ -17,7 +17,7 @@
 
 * *__Profit__* : 286.40K
 
-* *__Total Quantity__*: 38K sold as in 3 category with *__Profit__* Margin 12.47% .
+* *__Total Quantity__* : 38K sold as in 3 categories with *__Profit__* Margin of 12.47% .
 
 * *__categories with highest profit__* : Furniture,Office Supplies and Technology make similar amount of sales but different profit as Technology has highest profit.
 
@@ -30,6 +30,7 @@
 * *__Most Profitable Region__* : East & West With Sales in these region City : New York & California.
 
 ## Data Analysis Using Power Bi
+
 *__Power Bi Dashboards for sales and profits__* 
 
 
