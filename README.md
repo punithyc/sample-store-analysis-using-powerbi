@@ -1,5 +1,5 @@
 # Sales Insights - Data Analysis Using Power Bi
-I am sharing a SampleSuperStore Sales Insights - A Data Analysis Project performed on Power Bi in my journey into Data Science.
+*__I am sharing a SampleSuperStore Sales Insights - A Data Analysis Project performed on Power Bi in my journey into Data Science.__*
 
 ## About project 
 * Worked on USA based Furniture company sales insights - A Data Analysis project.
