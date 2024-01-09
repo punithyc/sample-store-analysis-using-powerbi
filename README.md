@@ -29,13 +29,13 @@
 *__Power Bi Dashboards for sales and profits__* 
 
 
-[Sales dashboard](https://www.novypro.com/project/super-store-power-bi)
+   [Sales dashboard](https://www.novypro.com/project/super-store-power-bi)
 
 ![sales](https://github.com/punithyc/sample-store-analysis-using-powerbi/assets/123263654/e18608aa-466a-419e-8ab4-3e0a650fb161)
 
 
 
-[Profits Dashboard](https://www.novypro.com/project/super-store-power-bi)
+  [Profits Dashboard](https://www.novypro.com/project/super-store-power-bi)
 
 ![profits](https://github.com/punithyc/sample-store-analysis-using-powerbi/assets/123263654/01279d2e-6c68-471f-bdc4-924466f38c40)
 
