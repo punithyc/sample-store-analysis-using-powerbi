@@ -44,7 +44,7 @@
 
 ![profits](https://github.com/punithyc/sample-store-analysis-using-powerbi/assets/123263654/01279d2e-6c68-471f-bdc4-924466f38c40)
 
-## For Any Queries/Doubts
+## For Any Queries/Doubts 👇
 [Linkedin](www.linkedin.com/in/punith-yc)<br>
 [Website](https://bio.link/punithyc)
 
