@@ -17,10 +17,25 @@
 
 * *__categories with highest profit__* : Furniture,Office Supplies and Technology make similar amount of sales but different profit as Technology has highest profit.
 
-* *__Top 2 best Selling sub category__* : Phone and Chairs.
+* *__Top 2 best Selling sub categories__* : Phone and Chairs.
 
 * *__Most Profitable Segment__* : Consumer segment , soo the marketing strategy has to place more focus on retaining customer from Corporate & Home offices segment also.
 
-* *__Shipment Mode__* : Standard Class is preferred shipment mode and also the cheapest one.
+* *__Shipment Mode__* : Standard Class is preferred shipment mode and also the cheapest one
 
 * *__Most Profitable Region__* : East & West With Sales in these region City : New York & California.
+
+## Data Analysis Using Power Bi
+*__Power Bi Dashboards for sales and profits__* 
+
+
+[Sales dashboard](https://www.novypro.com/project/super-store-power-bi)
+![sales](https://github.com/punithyc/sample-store-analysis-using-powerbi/assets/123263654/e18608aa-466a-419e-8ab4-3e0a650fb161)
+
+
+
+[Profits Dashboard](https://www.novypro.com/project/super-store-power-bi)
+![profits](https://github.com/punithyc/sample-store-analysis-using-powerbi/assets/123263654/01279d2e-6c68-471f-bdc4-924466f38c40)
+
+
+
