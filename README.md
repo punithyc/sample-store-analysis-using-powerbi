@@ -13,7 +13,11 @@
  ## Key Insights: 
  *__The Following are the insights which are analyzed for the Samplestorestore dataset containing 3 categories and 17 sub categories and their sales, profits for different regions of USA as follows__*
 
-* *__Total Sales__* : 2.30M & Profit : 286.40K on Total Quantity 38K sold as in 3 category with Profit Margin 12.47% .
+* *__Total Sales__* : 2.30M 
+
+* *__Profit__* : 286.40K
+
+* *__Total Quantity__*: 38K sold as in 3 category with *__Profit__* Margin 12.47% .
 
 * *__categories with highest profit__* : Furniture,Office Supplies and Technology make similar amount of sales but different profit as Technology has highest profit.
 
