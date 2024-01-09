@@ -3,7 +3,7 @@
 
 ## About project 
 * Worked on USA based Furniture company sales insights - A Data Analysis project.
-* Developed a Power bi dashboard to perform sales analysis, producing quantitative visualizations in Powewr Bi to extract valuable insights based on different parameters affecting the company performance year on b 
+* Developed a Power bi dashboard to perform sales analysis, producing quantitative visualizations in Powewr Bi to extract valuable insights based on different parameters affecting the company performance year on by
   year and further provide business solutions.
 
 ## Tools Used
